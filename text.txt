@@ -1,0 +1,11 @@
+ Volume in drive C is Windows
+ Volume Serial Number is D0A8-9489
+
+ Directory of C:\Users\philt\OneDrive\Documents\AWS WORK\Lab-007
+
+12/27/2023  10:00 PM    <DIR>          .
+12/27/2023  09:57 PM    <DIR>          ..
+12/27/2023  01:02 PM    <DIR>          lab
+12/27/2023  10:00 PM                 0 text.txt
+               1 File(s)              0 bytes
+               3 Dir(s)  265,850,421,248 bytes free
